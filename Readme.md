@@ -53,9 +53,9 @@
 
 - 在系统变量的Path一栏中，添加Coq的安装路径。
 
-<img src="image\image-20210724145233682.png" alt="avatar" style="zoom:35%;" />
+<img src="image\image-20210724145233682.png" alt="avatar" style="zoom:35%" />
 
-<img src="image\image-20210724155616354.png" alt="avatar" style="zoom:50%;" />
+<img src="image\image-20210724155616354.png" alt="avatar" style="zoom:50%" />
 
 ##### 2. 在Windows中安装make编译工具
 
