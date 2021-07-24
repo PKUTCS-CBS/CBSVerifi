@@ -69,10 +69,12 @@
 
 - 以**管理员方式**打开cmder，粘贴如下指令
 
-  - 
-    安装软件管理器Chocolatey：
+  - 安装软件管理器Chocolatey：
 
     `@powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin`
+    
+    注:如果出现` ... 未能创建SSL/TLS安全通道 ... `的问题时,可参考如下网站进行解决.
+       https://blog.csdn.net/qq_43650934/article/details/106637645
 
   - 安装make编译工具：
 
