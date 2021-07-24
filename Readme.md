@@ -49,13 +49,13 @@
 
 - 打开环境变量设置
 
-<img src="image\image-20210724145029025.png" alt="avatar" style="zoom:35%;" />
+<img src="image\image-20210724145029025.png" alt="avatar" zoom=35% />
 
 - 在系统变量的Path一栏中，添加Coq的安装路径。
 
-<img src="image\image-20210724145233682.png" alt="avatar" style="zoom:35%;" />
+<img src="image\image-20210724145233682.png" alt="avatar" zoom=35% />
 
-<img src="image\image-20210724155616354.png" alt="avatar" style="zoom:50%;" />
+<img src="image\image-20210724155616354.png" alt="avatar" zoom=50% />
 
 ##### 2. 在Windows中安装make编译工具
 
@@ -65,7 +65,7 @@
 
 ​	cmder解压后即可使用，建议和本工具文件解压到同一个根目录中。
 
-<img src="image\image-20210724160349470.png" alt="avatar" style="zoom:90%;" />
+<img src="image\image-20210724160349470.png" alt="avatar" zoom=90% />
 
 - 以**管理员方式**打开cmder，粘贴如下指令
 
@@ -80,7 +80,7 @@
 
 ##### 3. 安装完成后，重新打开cmder窗口，进入到解压后的工具文件夹，输入make即可开始编译
 
-<img src="image\image-20210724145814033.png" alt="avatar" style="zoom:50%;" />
+<img src="image\image-20210724145814033.png" alt="avatar" zoom=50% />
 
 
 
@@ -88,5 +88,5 @@
 
 （如果此时Coq崩溃，说明路径中有中文）
 
-<img src="image\image-20210724150102388.png" alt="avatar" style="zoom:80%;" />
+<img src="image\image-20210724150102388.png" alt="avatar" zoom=80% />
 
