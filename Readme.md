@@ -30,23 +30,27 @@
 
 #### 工具的编译方式
 
-###### 1. 安装Coq 8.8.0并配置环境变量
+##### 1. 安装Coq 8.8.0并配置环境变量
+
+- 安装Coq
 
 ​	下载地址：
 
 ​	https://github.com/coq/coq/releases/download/V8.8.0/coq-8.8.0-installer-windows-x86_64.exe
 
-​	完成安装后，需要配置Coq的环境变量：
+​	
 
-​	1.打开环境变量设置
+完成安装后，需要配置Coq的环境变量：
 
-<img src="image\image-20210724145029025.png" alt="avatar" style="zoom:50%;" />
+- 打开环境变量设置
 
- 2. 在系统变量中，添加Coq的安装路径。
+<img src="image\image-20210724145029025.png" alt="avatar" style="zoom:35%;" />
 
-    <img src="image\image-20210724145233682.png" alt="avatar" style="zoom:50%;" />
+- 在系统变量中，添加Coq的安装路径。
 
-###### 2. 在Windows中安装make编译工具
+<img src="image\image-20210724145233682.png" alt="avatar" style="zoom:35%;" />
+
+##### 2. 在Windows中安装make编译工具
 
 -  安装终端模拟器Cmder（需要安装full版本，解压后即可使用）
 
@@ -64,11 +68,13 @@
 
     `choco install mingw`
 
-###### 3. 在Cmder中，进入到CBSVerifi解压后的文件目录，输入make即可完成编译
+##### 3. 在Cmder中，进入到CBSVerifi解压后的文件目录，输入make即可完成编译
 
 <img src="image\image-20210724145814033.png" alt="avatar" style="zoom:50%;" />
 
-- 随后，可以直接用CoqIDE打开*.v文件，审阅相应的代码。
 
-  <img src="image\image-20210724150102388.png" alt="avatar" style="zoom:80%;" />
+
+最后，可以直接用CoqIDE打开*.v文件，审阅相应的代码。
+
+<img src="image\image-20210724150102388.png" alt="avatar" style="zoom:80%;" />
 
