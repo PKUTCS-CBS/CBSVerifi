@@ -55,7 +55,7 @@
 
 <img src="image\image-20210724145233682.png" alt="avatar" style="zoom:35%;" />
 
-<img src="\image\image-20210724155616354.png" alt="avatar" style="zoom:50%;" />
+<img src="image\image-20210724155616354.png" alt="avatar" style="zoom:50%;" />
 
 ##### 2. 在Windows中安装make编译工具
 
@@ -65,7 +65,7 @@
 
 ​	cmder解压后即可使用，建议和本工具文件解压到同一个根目录中。
 
-<img src="\image\image-20210724160349470.png" alt="avatar" style="zoom:90%;" />
+<img src="image\image-20210724160349470.png" alt="avatar" style="zoom:90%;" />
 
 - 以**管理员方式**打开cmder，粘贴如下指令
 
