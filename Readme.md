@@ -51,11 +51,11 @@
 
 <img src="image\image-20210724145029025.png" alt="avatar" style="zoom:35%;" />
 
-- 在系统变量的Path一栏中，添加Coq的安装路径。
-
-<img src="image\image-20210724145233682.png" alt="avatar" style="zoom:35%;" />
+- 在系统变量的Path一栏中，添加Coq的安装路径
 
 <img src="image\image-20210724155616354.png" alt="avatar" style="zoom:50%;" />
+
+<img src="image\image-20210724145233682.png" alt="avatar" style="zoom:35%;" />
 
 ### 3. 在Windows中安装make编译工具
 
@@ -76,7 +76,7 @@
 
   - 安装make编译工具：
 
-    `choco install mingw`
+    `choco install make`
 
 ### 4. 安装完成后，重新打开cmder窗口，进入到解压后的工具文件夹，输入make即可开始编译
 
